@@ -37,7 +37,7 @@ export default {
 @tailwind utilities;
 ```
 
-## React - TailwindCSS
+## React - TailwindCSS - `farm.config.ts`
 
 ```typescript
 import { defineConfig } from '@farmfe/core';
@@ -48,9 +48,7 @@ export default defineConfig({
 });
 ```
 
-## SolidJS - TailwindCSS
-
-`farm.config.ts`
+## SolidJS - TailwindCSS - `farm.config.ts`
 
 ```typescript
 // import { defineConfig } from '@farmfe/core';
