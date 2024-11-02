@@ -26,7 +26,7 @@ export default {
 ### Add `postcss` processing
 
 ```bash
-@farmfe/js-plugin-postcss
+bun add -D @farmfe/js-plugin-postcss
 ```
 
 ### Add `index.css`
